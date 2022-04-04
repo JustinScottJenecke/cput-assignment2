@@ -1,5 +1,5 @@
 # cput-assignment2
-Assignment on data structures, software development infrastructure and test driven development
+Assignment on data structures, software development infrastructure and test driven development and practice using the Collections Interface in Java.
 
 ## Technologies:
    - Java
